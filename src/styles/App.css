@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.page{
+  padding: 1px 5px;
+  color:teal;
+  background: transparent;
+  border: 1px solid teal;
+  cursor: pointer;
+  margin: 4px ;
+  width: 15px;
+  height: 15px;
+  border-radius: 2px;
+  
+}
+
+.active_page {
+  padding: 1px 5px;
+  background-color:blue;
+  background: transparent;
+  border: 2px solid blue;
+  cursor: pointer;
+  margin: 4px ;
+  width: 15px;
+  height: 15px;
+  border-radius: 2px;
+}
+
+
+
+
+
+
+
+
